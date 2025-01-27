@@ -1,4 +1,4 @@
-# Terraform AWS EC2 Instance Setup
+# Terraform AWS EC2 Instance Setup.
 
 This repository contains two examples of creating AWS EC2 instances using Terraform. One example creates an instance without an SSH key pair, while the other sets up an instance with an SSH key pair for secure access.
 
